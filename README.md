@@ -6,8 +6,20 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 ###
 29LV320 ( A21 : NC )
 ###
+### SD Card Module Connecting
+
+| No | SD Card Pin | Arduino Pin |
+|----|-------------|-------------|
+|  1 | GND         | GND         |
+|  2 | VCC         | 5V          |
+|  3 | MOSI        | 51          |
+|  4 | MISO        | 50          |
+|  5 | SCK         | 52          |
+|  6 | CS          | 4           |
+
 ###
-### Pin Connecting 1 - 24
+####
+### EEPROM Pin Connecting 1 - 24
 
 | No | EEPROM Pin | Arduino Pin |
 |----|------------|-------------|
@@ -38,7 +50,7 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 
 ###
 ####
-### Pin Connecting 25 - 48
+### EEPROM Pin Connecting 25 - 48
 
 | No | EEPROM Pin | Arduino Pin |
 |----|------------|-------------|
