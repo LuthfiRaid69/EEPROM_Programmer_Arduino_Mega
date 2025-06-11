@@ -45,8 +45,10 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 | 23 | A2         | 62          |
 | 24 | A1         | 8           |
 
-note:
-29LV160 ( A20 : NC, & A21 : NC ) & 29LV320 ( A21 : NC )
+#### note:
+29LV160 ( A20 : NC, & A21 : NC ) 
+###
+29LV320 ( A21 : NC )
 ###
 ...
 ...
