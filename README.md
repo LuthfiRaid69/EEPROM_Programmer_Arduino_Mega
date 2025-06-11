@@ -17,7 +17,8 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 |  5 | SCK         | 52          |
 |  6 | CS          | 4           |
 
-###
+.
+.
 ####
 ### EEPROM Pin Connecting 1 - 24
 
@@ -48,7 +49,8 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 | 23 | A2         | 62          |
 | 24 | A1         | 8           |
 
-###
+.
+.
 ####
 ### EEPROM Pin Connecting 25 - 48
 
