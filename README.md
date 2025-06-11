@@ -2,8 +2,8 @@
 EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG , Juno D and any Pedal FX &amp; Synthesizer.
 ##
 
-#### 29LV160 (A20 : NC, A21 : NC)
-29LV320 A(21 : NC)
+29LV160 (A20 : NC, A21 : NC)
+29LV320 (A21 : NC)
 ###
 ### Pin Connecting 1 - 24
 
