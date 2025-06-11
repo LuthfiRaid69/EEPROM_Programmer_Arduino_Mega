@@ -3,9 +3,8 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 ##
 ### Pin Connecting
 
-#### 29LV160
-####
-#### PIN_A15     14
+##### 29LV160
+##### PIN_A15     14
 #### PIN_A14     28
 #### PIN_A13     15
 #### PIN_A12     30
