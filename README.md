@@ -69,7 +69,7 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 | 34 | Q10        | 43          |
 | 35 | Q3         | 31          |
 | 36 | Q11        | 41          |
-| 37 | VCC        | VCC         |
+| 37 | VCC        | 3.3V        |
 | 38 | Q4         | 39          |
 | 39 | Q12        | 27          |
 | 40 | Q5         | 37          |
