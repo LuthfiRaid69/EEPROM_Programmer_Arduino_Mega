@@ -46,8 +46,7 @@ EEPROM Programmer for : 29LV160, 29LV320, 29LV640, Etc. internal memory SP404 OG
 | 24 | A1         | 8           |
 
 #### note:
-| 29LV160  |
-| No | EEPROM Pin | Arduino Pin     |
+| -- | 29LV160    | --              |
 |----|------------|-----------------|
 | A20 : NC | A21 : NC | WP_ACC : NC |
 ###
